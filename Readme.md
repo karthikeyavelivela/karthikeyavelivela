@@ -1,5 +1,13 @@
 # 💫 About Me:
-petzu<br>Open source<br>Student
+Karthikeya Velivela  
+B.Tech Student | Software Engineering & Cybersecurity  
+
+I build full-stack applications, explore system internals, and practice secure coding.
+Focused on writing clean code and shipping real projects.
+
+Tech: C, Python, JavaScript, React, Node.js, MongoDB  
+GitHub: https://github.com/karthikeyavelivela
+
 
 <img src="https://i.pinimg.com/originals/b4/2b/d3/b42bd32095c5f04ef10cc9876a4859aa.gif">
 
