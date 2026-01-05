@@ -1,7 +1,7 @@
 # 💫 About Me:
 petzu<br>Open source<br>Student
 
-
+<img src="https://i.pinimg.com/originals/b4/2b/d3/b42bd32095c5f04ef10cc9876a4859aa.gif">
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/karthikeya-velivela-b360a0274) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:velivelakarthikeya@gmail.com) 
 
