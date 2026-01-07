@@ -1,6 +1,6 @@
 # 💫 About Me:
 Karthikeya Velivela  
-B.Tech Student | Software Engineering & Cybersecurity  
+Junior Security-Foucsed Software Engineer| Software Engineering & Cybersecurity  
 
 I build full-stack applications, explore system internals, and practice secure coding.
 Focused on writing clean code and shipping real projects.
