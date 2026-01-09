@@ -25,3 +25,5 @@ Tech: C, Python, JavaScript, React, Node.js, MongoDB
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 ## **💳 GitHub Profile Summary Card:**
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karthikeyavelivela&theme=aura_dark)
+##Profile views
+![](https://komarev.com/ghpvc/?username=karthikeyavelivela&color=570b05)
