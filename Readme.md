@@ -5,7 +5,9 @@ Junior Security-Foucsed Software Engineer| Software Engineering & Cybersecurity
 I build full-stack applications, explore system internals, and practice secure coding.
 Focused on writing clean code and shipping real projects.
 
-Tech: C, Python, JavaScript, React, Node.js, MongoDB  
+Tech: C, Python, JavaScript, React, Node.js, MongoDB  <br>
+![](https://komarev.com/ghpvc/?username=karthikeyavelivela&color=570b05)
+
 
 
 
@@ -25,5 +27,5 @@ Tech: C, Python, JavaScript, React, Node.js, MongoDB
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 ## **💳 GitHub Profile Summary Card:**
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karthikeyavelivela&theme=aura_dark)
-##Profile views
-![](https://komarev.com/ghpvc/?username=karthikeyavelivela&color=570b05)
+
+
