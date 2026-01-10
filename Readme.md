@@ -16,12 +16,17 @@ Tech: C, Python, JavaScript, React, Node.js, MongoDB  <br>
 <tr>
   <td width="60%" valign="top">
 
-- Performing advanced penetration tests on web apps, networks, and APIs  
-- 🛠 Developing custom hacking tools & automation scripts for reconnaissance & exploitation  
-- Deep-diving into Malware Analysis, Reverse Engineering, and APT simulations  
-- Researching Mobile Application Security & Blockchain/Web3 exploitation  
-- Mentoring future cybersecurity professionals through **Project Guide**  
-- Contributing to open-source security projects & bug bounty programs  
+Performing advanced penetration testing on web applications, networks, APIs, and cloud environments
+
+Building custom security tools and automation scripts for reconnaissance, exploitation, and post-exploitation workflows
+
+Deep-diving into malware analysis, reverse engineering, and APT-style attack simulations
+
+Researching mobile application security, blockchain/Web3 vulnerabilities, and real-world exploit scenarios
+
+Mentoring upcoming cybersecurity professionals as a Project Guide, with hands-on, industry-grade problem solving
+
+Actively contributing to open-source security projects and participating in bug bounty programs
 
   </td>
   <td width="40%" valign="top" align="center">
