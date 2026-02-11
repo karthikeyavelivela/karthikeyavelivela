@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Karthikeya Velivela  
 Junior Security-Foucsed Software Engineer| Software Engineering & Cybersecurity  
 
