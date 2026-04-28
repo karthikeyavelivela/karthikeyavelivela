@@ -2,7 +2,7 @@
 
 **Security-Focused Software Engineer · Founder · GSoC '26 Contributor**
 
-I build full-stack products and the security tools to audit them. Founder of [FYRO](https://fyro.vercel.app) — a live logistics marketplace for Tier-2 India. Lead engineer on [GuidePay](https://guidepayklu.vercel.app) — ML-powered parametric insurance for gig workers (Guidewire DEVTrails 2026). AppSec Intern at PETZU. GSoC '26 contributor (2 PRs merged). B.Tech CSE @ KL University · CGPA: 9.46
+I build full-stack products and the security tools to audit them. Founder of [FYRO](https://fyrone.vercel.app) — a live logistics marketplace for Tier-2 India. Lead engineer on [GuidePay](https://guidepayklu.vercel.app) — ML-powered parametric insurance for gig workers (Guidewire DEVTrails 2026). AppSec Intern at PETZU. GSoC '26 contributor (2 PRs merged). B.Tech CSE @ KL University · CGPA: 9.46
 
 ---
 
